@@ -1,0 +1,11 @@
+.mainButton {
+  background-color: #ff4820;
+  padding: 10px 20px;
+  font-weight: lighter;
+  color: #fff;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  border-radius: 5px;
+}
